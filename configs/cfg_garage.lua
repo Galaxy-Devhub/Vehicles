@@ -115,7 +115,7 @@ cfg.garage_types = {
 
 
   ["Ambulance Heli"] = {
-    _config = {vtype="Heli",blipid=50,blipcolor=3,permissions={"police.permsnhs.menu"}},
+    _config = {vtype="Heli",blipid=50,blipcolor=3,permissions={"nhs.menu"}},
 
   },
 
