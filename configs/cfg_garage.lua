@@ -16,6 +16,7 @@ cfg.garage_types = {
 	
 	["VIP Cars"] = {
 		_config = {vtype="Car",blipid=56,blipcolor=38,permissions={"vip.garage"}}, -- ALL VIP CARS ARE 3 MILLION
+<<<<<<< HEAD
 		["audiq7"] = {"Audi Q7",5000000, ""},
 		["silvia"] = {"Nissan S15",5000000, ""},
 		["cyrus"] = {"Aston Martin Mansory",5000000, ""},
@@ -27,68 +28,49 @@ cfg.garage_types = {
 		["z4alchemist"] = {"BMW Z4 Alchemist",5000000, ""},
 		["chargerdemon"] = {"Dodge Charger Demon",5000000, ""},
 		["cbr600"] = {"Honda CBR600",5000000, ""},
+=======
+		--["lhuracan"] = {"Lamborghini Huracan LP610-4",5000000, ""},
+		
+>>>>>>> 118a71849668c0a31b5e29acaa55d54ebd6f9415
 
 	},
 --- Simeons cars below
   ["Compacts"]  = {  
     _config = {vtype="Car",blipid=50,blipcolor=4},
-    ["a45"] = {"Mercedes-Benz A45 AMG",40000, ""},
-	["polo2018"] = {"Volkswagen Polo",10000, ""},
-	["sciroccos81"] = {"Volkswagen Scirocco dinger",23000, ""},
-	["punto"] = {"Fiat Punto",10000, ""},
+    --["a45"] = {"Mercedes-Benz A45 AMG",40000, ""},
 
   },
   
 
   ["Sports"] = {
     _config = {vtype="Car",blipid=50,blipcolor=5},
-    ["r8ppi"] = {"Audi R8",75000, ""},
-	["rs5"] = {"Audi RS5",70000, ""},
-	["rs6"] = {"Audi RS6",80000, ""},
-	["rs7"] = {"Audi RS7",90000, ""},
-	["bmci"] = {"BMW M5",70000, ""},
-	["turs21"] = {"Porsche 911 Turbo",110000, ""},
-	["boxster"] = {"Porsche Boxster",100000, ""},
-	["pturismo"] = {"Porsche Panamera",100000, ""},
-	["13fmb302"] = {"Ford Shelby Mustang",85000, ""},
+    --["r8ppi"] = {"Audi R8",75000, ""},
   },
   ["Super Cars"] = {
     _config = {vtype="Car",blipid=50,blipcolor=5},
-	["ast"] = {"Aston Martin Vanquish",200000, ""},
-	["f4090"] = {"Ferrari F40",400000, ""},
+	--["ast"] = {"Aston Martin Vanquish",200000, ""},
   },
   
 
 
   ["SUV"] = {
     _config = {vtype="Car",blipid=50,blipcolor=4},
-    ["q820"] = {"Audi Q8 Quattro",75000, ""},
-    ["x6m"] = {"BMW X6M",60000, ""},
-    ["x5e53"] = {"BMW X5",50000, ""},
-	["pm19"] = {"Porsche Macan Turbo",50000, ""},
-    ["wildtrak"] = {"Ford Bronco",120000, ""},
+    --["q820"] = {"Audi Q8 Quattro",75000, ""},
 
   },
   
   ["Sedans"]  = { 
     _config = {vtype="Car",blipid=50,blipcolor=4},
-    ["audif103"] = {"Audi F103",35000, ""},
-	["17m760i"] = {"BMW 7 Series",50000, ""},
-	["bmwe65"] = {"BMW 760i",55000, ""},
-	["e34"] = {"Old BMW M5",30000, ""},
-	["m3e46"] = {"Old BMW M3",30000, ""},
+    --["audif103"] = {"Audi F103",35000, ""},
   },
 
   ["Vans"] = {
     _config = {vtype="Car",blipid=226,blipcolor=4},
-	["transvan"] = {"Transit Supervan",225000, ""},
-	["candyvan"] = {"Free Candy Van",400000, ""},
+	--["transvan"] = {"Transit Supervan",225000, ""},
   },
   ["Motorcycles"] = {
     _config = {vtype="Bike",blipid=226,blipcolor=4},
-	["bs17"] = {"BMW Motorbike",40000, ""},
-	["nightblade2"] = {"Nightblade ",100000, ""},
-	["r6"] = {"R6 Motorcyle",75000, ""},
+	--["bs17"] = {"BMW Motorbike",40000, ""},
   },
 
 
@@ -102,50 +84,13 @@ cfg.garage_types = {
 
   ["MET Vehicles"] = {
     _config = {vtype="Car",blipid=56,blipcolor=38,permissions={"police.perms"}},
-    ["polm5"] = {"BMW M5 Interceptor",0, ""},
-	["polxc90"] = {"Volvo XC90 Marked",0, ""},
-	["polinsignia"] = {"Vauxhall Insignia Estate Marked",0, ""},
-	["polx5"] = {"BMW X5 ARV",0, ""},
-	["polrover"] = {"ARV Range Rover",0, ""},
-	["pol1series"] = {"BMW 1 Series Marked",0, ""},
-	["polfocus"] = {"Ford Focus Estate Marked",0, ""},
-	["pol330d"] = {"BMW 330d Estate Interceptor",0, ""},
-	["polcla45"] = {"Mercedes-Benz CLA45 AMG Interceptor",0, ""},
-	["a45marked"] = {"Mercedes Benz A45 AMG Marked",0, ""},
-	["a45unmarked"] = {"Mercedes Benz A45 AMG Unmarked",0, ""},
-	["octaviaunmarked"] = {"Skoda Octavia Unmarked",0, ""},
-	["i30unmarked"] = {"Hyundai i30 Unmarked",0, ""},
-	["polf90"] = {"BMW M5 F90 Marked",0, ""},
-	["polquattro"] = {"Audi A4 Quattro Marked",0, ""},
-	["i30marked"] = {"Hyundai i30 Marked",0, ""},
-	["polx5f15"] = {"BMW X5 F15 ARV",0, ""},
-	["tauvan"] = {"Mercedes Sprinter TAU Van",0, ""},
-	["polx1"] = {"BMW X1 ARV",0, ""},
-    ["policeb"] = {"BPolice BMW R 1200RT",0, ""},
-	["policebike"] = {"Police BMW R 1200RT",0, ""},
-	["pddirtbike"] = {"Police Sanches",0, ""},
-	
-
-
+    --["polm5"] = {"BMW M5 Interceptor",0, ""},
   },
 
 
   ["NHS Vehicles"] = {
     _config = {vtype="Car",blipid=50,blipcolor=3,permissions={"nhs.menu"}},
-    ["nhsdiscovery"] = {"NHS Land Rover Discovery",0, ""},
-	["nhsxc90"] = {"NHS Volvo XC90",0, ""},
-	["nhsbox"] = {"NHS Mercedes Sprinter Box Van",0, ""},
-	["nhssprinter"] = {"NHS Mercedes Sprinter IRU",0, ""},
-	["nhsskoda"] = {"NHS Skoda Octavia RRU",0, ""},
-	["nhsx5"] = {"Air Ambulance BMW X5 F15",0, ""},
-	["nhsskodavrs"] = {"Air Ambulance Skoda Octavia VRS",0, ""},
-	["nhsbox2"] = {"NHS Mercedes Box Van",0, ""},
-	["nhsfiat"] = {"NHS Fiat Ambulance",0, ""},
-	["nhsoffroad"] = {"NHS Land Rover Offroad",0, ""},
-	["nhssprinter2"] = {"NHS Sprinter Emergency",0, ""},
-	["nhsvan"] = {"NHS Mercedes Van",0, ""},
-	["nhsvw"] = {"NHS Volkswagen SUV",0, ""},
-	["nhsbike"] = {"NHS BMW R 1200RT",0, ""},
+    --["nhsdiscovery"] = {"NHS Land Rover Discovery",0, ""},
   },
 
 
@@ -155,13 +100,13 @@ cfg.garage_types = {
 
   ["Ambulance Heli"] = {
     _config = {vtype="Heli",blipid=50,blipcolor=3,permissions={"police.permsnhs.menu"}},
-    ["nhsheli"] = {"NHS Helicopter",0, ""},
+
   },
 
 
   ["Police Helicopters"] = {
     _config = {vtype="Heli",blipid=43,blipcolor=38,radius=5.1,permissions={"police.perms"}},
-    ["npas"] = {"NPAS Helicopter",0, ""},
+
 }
 }
 
