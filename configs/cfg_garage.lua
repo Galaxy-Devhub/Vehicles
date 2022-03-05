@@ -16,7 +16,6 @@ cfg.garage_types = {
 	
 	["VIP Cars"] = {
 		_config = {vtype="Car",blipid=56,blipcolor=38,permissions={"vip.garage"}}, -- ALL VIP CARS ARE 3 MILLION
-<<<<<<< HEAD
 		["audiq7"] = {"Audi Q7",5000000, ""},
 		["silvia"] = {"Nissan S15",5000000, ""},
 		["cyrus"] = {"Aston Martin Mansory",5000000, ""},
@@ -28,10 +27,6 @@ cfg.garage_types = {
 		["z4alchemist"] = {"BMW Z4 Alchemist",5000000, ""},
 		["chargerdemon"] = {"Dodge Charger Demon",5000000, ""},
 		["cbr600"] = {"Honda CBR600",5000000, ""},
-=======
-		--["lhuracan"] = {"Lamborghini Huracan LP610-4",5000000, ""},
-		
->>>>>>> 118a71849668c0a31b5e29acaa55d54ebd6f9415
 
 	},
 --- Simeons cars below
@@ -44,6 +39,8 @@ cfg.garage_types = {
 
   ["Sports"] = {
     _config = {vtype="Car",blipid=50,blipcolor=5},
+	["rs62"] = {"Free Audi RS6",1, ""},
+	["m3f80"] = {"Custom BMW M3",1, ""},
     --["r8ppi"] = {"Audi R8",75000, ""},
   },
   ["Super Cars"] = {
