@@ -161,6 +161,7 @@ cfg.locksandimports = {
 		["pornhub"] = {"Pornhub Wagon",999999999999, ""},
 		["rooseveltgen"] = {"RooseVelt",999999999999, ""},
 		["unclescott"] = {"Uncle Scott Buggy",999999999999, ""},
+		["auditt"] = {"Prior Design Audi TT",999999999999, ""},
 	},
 	["Founder Locks"] = {
 		_config = {vtype="Car",blipid=56,blipcolor=38},
