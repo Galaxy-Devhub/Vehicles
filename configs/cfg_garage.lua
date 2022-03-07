@@ -44,8 +44,30 @@ cfg.garage_types = {
 
   ["MET Vehicles"] = {
     _config = {vtype="Car",blipid=56,blipcolor=38,permissions={"police.perms"}},
-	    --["polxt"] = {"Police X5 ARV",0, ""},
+	["mraprb"] = {"Special Forces",32423432423432423432324, ""},
+	["amg"] = {"Pluxxy's Pd Lock",32423432423432423432324, ""},
+	["polF150"] = {"Police F150",0, ""},
+	["pdbmwm5"] = {"RPU M5",0, ""},
+	["pddirtbike"] = {"Police Dirtbike",0, ""},
+	["polimpreza"] = {"Police Imprezza",0, ""},
+	["polm2"] = {"BMW M2",0, ""},
+	["pdbmw540i"] = {"BMW 540I",0, ""},
+	["pdjagxfr"] = {"Jaguar XFR",0, ""},
+	["pdtran"] = {"Transit Van",0, ""},
+	["pdvolvomarked"] = {"Volvo Marked",0, ""},
+	["pdvolvsun"] = {"Volvo Unmarked",0, ""},
+	["polgt"] = {"Police GT",0, ""},
+	["polmondeo"] = {"Police Mondeo",0, ""},
+	["riotvan"] = {"CTSFO Heli",0, ""},
+	["polbird"] = {"Riot Van",0, ""},
 
+	["pdlambo"] = {"Lambo",0, ""},
+	["pdx5arv"] = {"BMW X5",0, ""},
+	["pdx5unm"] = {"Unmarked X5",0, ""},
+	["pdxc90mar"] = {"Volvo Xc90 Marked",0, ""},
+	["pdxc90unm"] = {"Volvo XC90 Unmarked",0, ""},
+	["polrs6"] = {"Audi Rs6",0, ""},
+	["xc60"] = {"XC60",0, ""},
   },
 
 
@@ -67,8 +89,6 @@ cfg.garage_types = {
 
   ["Police Helicopters"] = {
     _config = {vtype="Heli",blipid=43,blipcolor=38,radius=5.1,permissions={"police.perms"}},
-	["npas1"] = {"NPAS 1",0, ""},
-	["npas2"] = {"NPAS 2",0, ""},
 	["polbird"] = {"CTSFO Heli",0, ""},
 }
 }
