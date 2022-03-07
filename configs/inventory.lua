@@ -49,9 +49,9 @@ cfg.vehicle_chest_weights = {
   ["maurader"] = 300,
   ["19ramoffroad"] = 250,
   ["evoxsurv"] = 200,
-  ["auditt"] = 300,
+  ["auditt"] = 50,
   ["lilli"] = 300,
-  ["150svt"] = 150,
+  ["150svt"] = 50,
 
 }
 

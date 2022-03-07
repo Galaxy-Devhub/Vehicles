@@ -44,26 +44,8 @@ cfg.garage_types = {
 
   ["MET Vehicles"] = {
     _config = {vtype="Car",blipid=56,blipcolor=38,permissions={"police.perms"}},
-	["Police BMW 540i"] = {"pdbmw540i",0, ""},
-	["Police Transit Van"] = {"pdtran",0, ""},
-	["Police Volvo"] = {"pdvolvomarked",0, ""},
-	["Police Ford Mondeo"] = {"polmondeo",0, ""},
-	["Police Riot Van"] = {"riotvan",0, ""},
-	["Police Ford F150"] = {"polF150",0, ""},
-	["Police BMW M5"] = {"pdbmwm5",0, ""},
-	["Police Subaru Impreza"] = {"polimpreza",0, ""},
-	["Police DirtBike"] = {"pddirtbike",0, ""},
-	["Police M2 Hyperceptor"] = {"polm2",0, ""},
-	["BMW X5 ARV"] = {"pdx5arv",0, ""},
-	["BMW X5 Unmarked"] = {"pdx5unm",0, ""},
-	["Volvo XC90 ARV"] = {"pdxc90mar",0, ""},
-	["Volvo XC90 Unmarked"] = {"pdxc90unm",0, ""},
-	["SCO Command RS6"] = {"polrs6",0, ""},
-	["CTSFO XE"] = {"polxe",0, ""},
-	["Unmarked Dinger"] = {"polvlad",0, ""},
-	["Gold Command Tesla"] = {"pd_tesla",0, ""},
-	["dubzyunmarked"] = {"Dubzy PD Lock",0, ""},
-	["UNMDUR"] = {"Buzz's Lock",999999999999, ""},
+	    --["polxt"] = {"Police X5 ARV",0, ""},
+
   },
 
 
