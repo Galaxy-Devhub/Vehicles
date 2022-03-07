@@ -29,50 +29,13 @@ cfg.garage_types = {
 		["cbr600"] = {"Honda CBR600",5000000, ""},
 
 	},
---- Simeons cars below
-  ["Compacts"]  = {  
-    _config = {vtype="Car",blipid=50,blipcolor=4},
-    --["a45"] = {"Mercedes-Benz A45 AMG",40000, ""},
-
-  },
-  
 
   ["Sports"] = {
     _config = {vtype="Car",blipid=50,blipcolor=5},
-	["rs62"] = {"Free Audi RS6",1, ""},
 	["m3f80"] = {"Custom BMW M3",1, ""},
+	["rs62"] = {"Free Audi RS6",1, ""},
     --["r8ppi"] = {"Audi R8",75000, ""},
   },
-  ["Super Cars"] = {
-    _config = {vtype="Car",blipid=50,blipcolor=5},
-	--["ast"] = {"Aston Martin Vanquish",200000, ""},
-  },
-  
-
-
-  ["SUV"] = {
-    _config = {vtype="Car",blipid=50,blipcolor=4},
-    --["q820"] = {"Audi Q8 Quattro",75000, ""},
-
-  },
-  
-  ["Sedans"]  = { 
-    _config = {vtype="Car",blipid=50,blipcolor=4},
-    --["audif103"] = {"Audi F103",35000, ""},
-  },
-
-  ["Vans"] = {
-    _config = {vtype="Car",blipid=226,blipcolor=4},
-	--["transvan"] = {"Transit Supervan",225000, ""},
-  },
-  ["Motorcycles"] = {
-    _config = {vtype="Bike",blipid=226,blipcolor=4},
-	--["bs17"] = {"BMW Motorbike",40000, ""},
-  },
-
-
-
-
 
 
 
