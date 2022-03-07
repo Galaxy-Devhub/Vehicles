@@ -8,7 +8,7 @@ cfg.default_vehicle_chest_weight = 50
 
 -- define vehicle chest weight by model in lower case
 cfg.vehicle_chest_weights = {
-  ["300kg"] = 200,
+  ["300kg"] = 300,
   ["m977hl"] = 200,
   ["m9395"] = 200,
   ["mtfft"] = 200,
@@ -45,13 +45,13 @@ cfg.vehicle_chest_weights = {
   ["22m5"] = 300,
   ["AshyPika"] = 300,
   ["dailypp"] = 300,
-  ["tonkat"] = 215,
+  ["tonkat"] = 150,
   ["maurader"] = 300,
-  ["19ramoffroad"] = 250,
-  ["evoxsurv"] = 200,
-  ["auditt"] = 50,
+  ["19ramoffroad"] = 200,
+  ["evoxsurv"] = 150,
+  ["auditt"] = 100,
   ["lilli"] = 300,
-  ["150svt"] = 50,
+  ["150svt"] = 150,
 
 }
 
