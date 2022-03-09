@@ -165,6 +165,7 @@ cfg.locksandimports = {
 		["dubzy"] = {"Dubzy Founder's Lock",999999999999, ""},
 		["22m5"] = {"Sim's Founder Lock",999999999999, ""},
 		["legomini"] = {"Wellsy's Founder Lock",999999999999, ""},
+		["wellsy"] = {"Wellsy's Management Lock",999999999999, ""},
 	},
 	["Management Locks"] = {
 		_config = {vtype="Car",blipid=56,blipcolor=38},
@@ -176,7 +177,6 @@ cfg.locksandimports = {
 		["travi"] = {"Travizy's Management Lock",999999999999, ""},
 		["sshuracan"] = {"Twin Turbo Huracan",999999999999, ""},
 		["customdeberti"] = {"Dubzy x Lillie",999999999999, ""},
-		["wellsy"] = {"Wellsy's Management Lock",999999999999, ""},
 		["jeep20stormtrooper"] = {"Parker's Management Lock",999999999999, ""},
 		["as1pxxbd"] = {"firm it",999999999999, ""},
 	},
