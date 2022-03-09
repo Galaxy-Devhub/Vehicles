@@ -169,7 +169,7 @@ cfg.locksandimports = {
 		_config = {vtype="Car",blipid=56,blipcolor=38},
 		["AshyPika"] = {"Mikey's Pussy Wagon Has Now Arrived",999999999999, ""},
 		["gti8"] = {"Firm It Pussy",999999999999, ""},
-		["gen"] = {"Gen has a huge forehead",999999999999, ""},
+		["Gen"] = {"Gen has a huge forehead",999999999999, ""},
 		["lilli"] = {"Lilli X Dubzy <3",999999999999, ""},
 		["rs6mansory"] = {"Mansory RS6",999999999999, ""},
 		["travi"] = {"Travizy's Management Lock",999999999999, ""},
