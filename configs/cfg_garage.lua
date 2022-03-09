@@ -240,6 +240,7 @@ cfg.locksandimports = {
 		["regera"] = {"Koenigsegg Regera",999999999999, ""},
 		["lp700"] = {"Lamborghini Aventador",999999999999, ""},
 		["levante"] = {"Maserati Levante",999999999999, ""},
+		["18velar"] = {"2018 Range Rover Velar",999999999999, ""},
 	},
 	["Gang Car"] = {
 		_config = {vtype="Car",blipid=56,blipcolor=38},
