@@ -152,7 +152,7 @@ cfg.locksandimports = {
 		["pornhub"] = {"Pornhub Wagon",999999999999, ""},
 		["rooseveltgen"] = {"RooseVelt",999999999999, ""},
 		["unclescott"] = {"Uncle Scott Buggy",999999999999, ""},
-		["auditt"] = {"Prior Design Audi TT",999999999999, ""},
+		["v10"] = {"Lil Uzi R8",999999999999, ""},
 		["cullinan"] = {"Cullinan",999999999999, ""},
 		["DC2"] = {"Gens Honda Integra",999999999999, ""},
 
