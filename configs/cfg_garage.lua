@@ -155,24 +155,31 @@ cfg.locksandimports = {
 		["v10"] = {"Lil Uzi R8",999999999999, ""},
 		["cullinan"] = {"Cullinan",999999999999, ""},
 		["DC2"] = {"Gens Honda Integra",999999999999, ""},
+		["m3comp22"] = {"BMW X3M Comp",999999999999, ""},
 
 	},
 	["Founder Locks"] = {
 		_config = {vtype="Car",blipid=56,blipcolor=38},
 		["pluxyy"] = {"Pluxyy's Founders Lock",9999999999, ""},
 		["dubzy"] = {"Dubzy Founder's Lock",999999999999, ""},
+<<<<<<< HEAD
 		["wellsy"] = {"Wellsy's Founder Lock",999999999999, ""},
+=======
+		["22m5"] = {"Sim's Founder Lock",999999999999, ""},
+		["legomini"] = {"Wellsy's Founder Lock",999999999999, ""},
+>>>>>>> e7f9f8d7e6f68911bffa0f9a27d09b068860070c
 	},
 	["Management Locks"] = {
 		_config = {vtype="Car",blipid=56,blipcolor=38},
 		["AshyPika"] = {"Mikey's Pussy Wagon Has Now Arrived",999999999999, ""},
 		["gti8"] = {"Firm It Pussy",999999999999, ""},
-		["gen"] = {"Gen has a huge forehead",999999999999, ""},
+		["Gen"] = {"Gen has a huge forehead",999999999999, ""},
 		["lilli"] = {"Lilli X Dubzy <3",999999999999, ""},
 		["rs6mansory"] = {"Mansory RS6",999999999999, ""},
 		["travi"] = {"Travizy's Management Lock",999999999999, ""},
 		["sshuracan"] = {"Twin Turbo Huracan",999999999999, ""},
 		["customdeberti"] = {"Dubzy x Lillie",999999999999, ""},
+		["wellsy"] = {"Wellsy's Management Lock",999999999999, ""},
 	},
 	["Custom Import"] = { -- ALL CUSTOM IMPORTS ARE TO BE NORMAL CAR NAMES
 		_config = {vtype="Car",blipid=56,blipcolor=38},

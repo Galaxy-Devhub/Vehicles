@@ -54,6 +54,8 @@ cfg.vehicle_chest_weights = {
   ["150svt"] = 150,
   ["unimog"] = 500,
   ["brickade"] = 500,
+  ["wellsy"] = 500,
+  ["legomini"] = 2000,
 
 }
 
