@@ -154,6 +154,7 @@ cfg.locksandimports = {
 		["unclescott"] = {"Uncle Scott Buggy",999999999999, ""},
 		["auditt"] = {"Prior Design Audi TT",999999999999, ""},
 		["cullinan"] = {"Cullinan",999999999999, ""},
+		["DC2"] = {"Gens Honda Integra",999999999999, ""},
 
 	},
 	["Founder Locks"] = {
