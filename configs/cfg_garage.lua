@@ -162,6 +162,7 @@ cfg.locksandimports = {
 		["pluxyy"] = {"Pluxyy's Founders Lock",9999999999, ""},
 		["dubzy"] = {"Dubzy Founder's Lock",999999999999, ""},
 		["22m5"] = {"Sim's Founder Lock",999999999999, ""},
+		["legomini"] = {"Wellsy's Founder Lock",999999999999, ""},
 	},
 	["Management Locks"] = {
 		_config = {vtype="Car",blipid=56,blipcolor=38},
