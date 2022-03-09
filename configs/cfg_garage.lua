@@ -173,6 +173,7 @@ cfg.locksandimports = {
 		["travi"] = {"Travizy's Management Lock",999999999999, ""},
 		["sshuracan"] = {"Twin Turbo Huracan",999999999999, ""},
 		["customdeberti"] = {"Dubzy x Lillie",999999999999, ""},
+		["wellsy"] = {"Wellsy's Management Lock",999999999999, ""},
 	},
 	["Custom Import"] = { -- ALL CUSTOM IMPORTS ARE TO BE NORMAL CAR NAMES
 		_config = {vtype="Car",blipid=56,blipcolor=38},
