@@ -156,6 +156,7 @@ cfg.locksandimports = {
 		["cullinan"] = {"Cullinan",999999999999, ""},
 		["DC2"] = {"Gens Honda Integra",999999999999, ""},
 		["m3comp22"] = {"BMW X3M Comp",999999999999, ""},
+		["mh3przemo"] = {"Wilko",999999999999, ""},
 
 	},
 	["Founder Locks"] = {
