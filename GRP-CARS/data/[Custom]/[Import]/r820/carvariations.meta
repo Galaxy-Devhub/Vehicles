@@ -27,7 +27,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>1010_r820_modkit</Item>
+        <Item>0_default_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -38,7 +38,7 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="1010" />
+      <lightSettings value="128" />
       <sirenSettings value="0" />
     </Item>
 

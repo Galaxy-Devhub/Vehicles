@@ -30,11 +30,37 @@ cfg.garage_types = {
 
 	},
 
-  ["Sports"] = {
-    _config = {vtype="Car",blipid=50,blipcolor=5},
-	["m3f80"] = {"Custom BMW M3",1, ""},
-	["rs62"] = {"Free Audi RS6",1, ""},
-    --["r8ppi"] = {"Audi R8",75000, ""},
+	["Compacts"]  = {  
+		_config = {vtype="Car",blipid=50,blipcolor=4},
+		["golfgti"] = {"Golf GTI",100000, ""},
+		--["a45"] = {"Mercedes-Benz A45 AMG",40000, ""},
+	
+	  },
+	  
+	
+	  ["Sports"] = {
+		_config = {vtype="Car",blipid=50,blipcolor=5},
+		["rs62"] = {"Free Audi RS6",1, ""},
+		["m3f80"] = {"Custom BMW M3",1, ""},
+		["na6"] = {"Mazda MX5",250000, ""},
+		["i8"] = {"BMW I8",400000, ""},
+		--["r8ppi"] = {"Audi R8",75000, ""},
+	  },
+	  ["Super Cars"] = {
+		_config = {vtype="Car",blipid=50,blipcolor=5},
+		["r820"] = {"Audi R8 2020",500000, ""},
+		["bolide"] = {"Bugatti Bolide",650000, ""},
+		["regera"] = {"Koenigsegg Regera",750000, ""},
+		["lp700"] = {"Lamborghini Aventador",900000, ""},
+		--["ast"] = {"Aston Martin Vanquish",200000, ""},
+	  },
+	  
+	
+	
+	  ["SUV"] = {
+		_config = {vtype="Car",blipid=50,blipcolor=4},
+		["levante"] = {"Maserati Levante",500000, ""},
+		--["q820"] = {"Audi Q8 Quattro",75000, ""},
   },
 
 
