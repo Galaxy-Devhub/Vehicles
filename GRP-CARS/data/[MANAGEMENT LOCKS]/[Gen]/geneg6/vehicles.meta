@@ -4,10 +4,10 @@
  <residentAnims />
  <InitDatas>
     <Item>
-      <modelName>Gen</modelName>
-      <txdName>Gen</txdName>
-      <handlingId>Gen</handlingId>
-      <gameName>Gen</gameName>
+      <modelName>geneg6</modelName>
+      <txdName>geneg6</txdName>
+      <handlingId>geneg6</handlingId>
+      <gameName>geneg6</gameName>
       <vehicleMakeName>SPOON</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -16,7 +16,7 @@
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
       <audioNameHash>STINGER</audioNameHash>
-      <layout>LAYOUT_LOW_RHD</layout>
+      <layout>LAYOUT_STD_RHD</layout>
       <coverBoundOffsets>BLISTA_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
       <scenarioLayout />
@@ -41,7 +41,7 @@
       <PovCameraVerticalAdjustmentForRollCage value="0.000000" />
       <PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
       <PovRearPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vfxInfoName>VFXVEHICLEINFO_CAR_GENERIC</vfxInfoName>
+      <vfxInfoName>VFXVEHICLEINFO_CAR_geneg6ERIC</vfxInfoName>
       <shouldUseCinematicViewMode value="true" />
       <shouldCameraTransitionOnClimbUpDown value="false" />
       <shouldCameraIgnoreExiting value="false" />
@@ -116,7 +116,7 @@
  <txdRelationships>
     <Item>
       <parent>vehicles_banshee_interior</parent>
-      <child>Gen</child>
+      <child>geneg6</child>
     </Item>
  </txdRelationships>
 </CVehicleModelInfo__InitDataList> 
