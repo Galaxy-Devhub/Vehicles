@@ -72,6 +72,7 @@ cfg.garage_types = {
     _config = {vtype="Car",blipid=56,blipcolor=38,permissions={"police.perms"}},
 	["mraprb"] = {"Special Forces",32423432423432423432324, ""},
 	["amg"] = {"Pluxxy's Pd Lock",32423432423432423432324, ""},
+        ["UNMDUR"] = {"Buzz's PD Lock",32423432423432423432324, ""},
 	["polF150"] = {"Police F150",0, ""},
 	["pdbmwm5"] = {"RPU M5",0, ""},
 	["pddirtbike"] = {"Police Dirtbike",0, ""},
