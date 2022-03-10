@@ -3,8 +3,8 @@
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>evoxsurv</handlingName>
-      <fMass value="2500.000000" />
+      <handlingName>evo10</handlingName>
+      <fMass value="3500.000000" />
 	  <fDownforceModifier value="10.50000" />
       <fInitialDragCoeff value="7.450000" />
       <fPercentSubmerged value="85.000000" />

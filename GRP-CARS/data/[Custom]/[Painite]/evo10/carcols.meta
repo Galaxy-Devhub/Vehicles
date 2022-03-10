@@ -131,7 +131,7 @@
         <zBias value="0.250000" />
         <pullCoronaIn value="false" />
       </reversingLightCorona>
-      <name>evoxsurv</name>
+      <name>evo10</name>
     </Item>
    </Lights>
 </CVehicleModelInfoVarGlobal>
