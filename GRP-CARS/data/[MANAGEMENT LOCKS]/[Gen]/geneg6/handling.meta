@@ -3,7 +3,7 @@
   <HandlingData>
   <Item type="CHandlingData">
       <handlingName>geneg6</handlingName>
-      <fMass value="6000.000000" />
+      <fMass value="7000.000000" />
       <fInitialDragCoeff value="7.000000" />
       <fDownforceModifier value="50.0000" />
       <fPercentSubmerged value="85.000000" />
