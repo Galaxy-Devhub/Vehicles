@@ -84,12 +84,15 @@ cfg.garage_types = {
 	["pdvolvsun"] = {"Volvo Unmarked",0, ""},
 	["polgt"] = {"Police GT",0, ""},
 	["polmondeo"] = {"Police Mondeo",0, ""},
-	["riotvan"] = {"CTSFO Heli",0, ""},
-	["polbird"] = {"Riot Van",0, ""},
+	["riotvan"] = {"Riot Van",0, ""},
 
-	["pdlambo"] = {"Lambo",0, ""},
+	["polbird"] = {"CTSFO Helicopter",0, ""},
+        ["npas1"] = {"Npas 1 Helicopter",0, ""},
+        ["npas2"] = {"Npas 2 Helicopter",0, ""},
+
+	["pdlambo"] = {"Police Lamborghini",0, ""},
 	["pdx5arv"] = {"BMW X5",0, ""},
-	["pdx5unm"] = {"Unmarked X5",0, ""},
+	["pdx5unm"] = {"Unmarked BMW X5",0, ""},
 	["pdxc90mar"] = {"Volvo Xc90 Marked",0, ""},
 	["pdxc90unm"] = {"Volvo XC90 Unmarked",0, ""},
 	["polrs6"] = {"Audi Rs6",0, ""},
@@ -115,7 +118,10 @@ cfg.garage_types = {
 
   ["Police Helicopters"] = {
     _config = {vtype="Heli",blipid=43,blipcolor=38,radius=5.1,permissions={"police.perms"}},
-	["polbird"] = {"CTSFO Heli",0, ""},
+	["polbird"] = {"CTSFO Helicopter",0, ""},
+        ["npas1"] = {"Npas 1 Helicopter",0, ""},
+        ["npas2"] = {"Npas 2 Helicopter",0, ""},
+
 }
 }
 
