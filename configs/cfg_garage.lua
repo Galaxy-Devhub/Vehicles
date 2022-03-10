@@ -158,7 +158,8 @@ cfg.locksandimports = {
 		["gcmx3m2022"] = {"BMW X3M Comp",999999999999, ""},
 		["mh3przemo"] = {"Wilko",999999999999, ""},
 		["dubzyunmarked"] = {"Dubzy pd",999999999999, ""},
-		["uzibentayga"] = {"Uzi Bentayga",999999999999, ""},
+		["uzibentayga"] = {"Lil Uzi Vert Bentayga",999999999999, ""},
+		["uziurus"] = {"Lil Uzi Vert Urus",999999999999, ""},
 
 	},
 	["Founder Locks"] = {
