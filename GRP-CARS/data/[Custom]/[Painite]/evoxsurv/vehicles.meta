@@ -6,8 +6,8 @@
     <Item>
       <modelName>evoxsurv</modelName>
       <txdName>evoxsurv</txdName>
-      <handlingId>EVOXSURV</handlingId>
-      <gameName>EVOXSURV</gameName>
+      <handlingId>evoxsurv</handlingId>
+      <gameName>evoxsurv</gameName>
       <vehicleMakeName>MITSUBISHI</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
