@@ -4,10 +4,10 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>evoxsurv</modelName>
-      <txdName>evoxsurv</txdName>
-      <handlingId>EVOXSURV</handlingId>
-      <gameName>EVOXSURV</gameName>
+      <modelName>evo10</modelName>
+      <txdName>evo10</txdName>
+      <handlingId>evo10</handlingId>
+      <gameName>evo10</gameName>
       <vehicleMakeName>MITSUBISHI</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>

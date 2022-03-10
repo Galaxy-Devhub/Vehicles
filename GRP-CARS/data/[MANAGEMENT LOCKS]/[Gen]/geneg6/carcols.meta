@@ -3,13 +3,13 @@
 <CVehicleModelInfoVarGlobal>     
   <Kits>
     <Item>
-      <kitName>1013_Gen_modkit</kitName>
+      <kitName>1013_geneg6_modkit</kitName>
       <id value="1013" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
-          <modelName>Gen_boot_1</modelName>
-          <modShopLabel>Gen_boot_1</modShopLabel>
+          <modelName>geneg6_boot_1</modelName>
+          <modShopLabel>geneg6_boot_1</modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>misc_a</Item>
@@ -25,8 +25,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>Gen_bon_1</modelName>
-          <modShopLabel>Gen_bon_1</modShopLabel>
+          <modelName>geneg6_bon_1</modelName>
+          <modShopLabel>geneg6_bon_1</modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item>
@@ -582,7 +582,7 @@
         <zBias value="0.250000" />
         <pullCoronaIn value="false" />
       </reversingLightCorona>
-      <name>Gen</name>
+      <name>geneg6</name>
     </Item>
   </Lights>	
 </CVehicleModelInfoVarGlobal>

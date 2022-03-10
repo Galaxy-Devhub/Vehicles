@@ -6,9 +6,9 @@
     <Item>
       <modelName>dc2</modelName>
       <txdName>dc2</txdName>
-      <handlingId>DC2</handlingId>
-      <gameName>INTEGRA</gameName>
-      <vehicleMakeName>Honda</vehicleMakeName>
+      <handlingId>dc2</handlingId>
+      <gameName>dc2</gameName>
+      <vehicleMakeName>Honda Integra</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>

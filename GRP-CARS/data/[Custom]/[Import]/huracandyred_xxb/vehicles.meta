@@ -4,11 +4,11 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>huracandyred_xxb</modelName>
-      <txdName>huracandyred_xxb</txdName>
-      <handlingId>huracandyred_xxb</handlingId>
-      <gameName>huracandyred_xxb</gameName>
-      <vehicleMakeName>huracandyred_xxb</vehicleMakeName>
+      <modelName>huracandyredxxb</modelName>
+      <txdName>huracandyredxxb</txdName>
+      <handlingId>huracandyredxxb</handlingId>
+      <gameName>huracandyredxxb</gameName>
+      <vehicleMakeName>huracandyredxxb</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>

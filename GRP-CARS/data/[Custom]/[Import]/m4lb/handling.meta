@@ -2,7 +2,7 @@
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>m4LB</handlingName>
+      <handlingName>m4lb</handlingName>
       <fMass value="1400.000000" />
       <fInitialDragCoeff value="2.500000" />
       <fPercentSubmerged value="85.000000" />

@@ -2,7 +2,7 @@
 <CHandlingDataMgr>
   <HandlingData>
   <Item type="CHandlingData">
-      <handlingName>huracandyred_xxb</handlingName>
+      <handlingName>huracandyredxxb</handlingName>
       <fMass value="1100.000000" />
       <fInitialDragCoeff value="3.500000" />
       <fPercentSubmerged value="85.000000" />
