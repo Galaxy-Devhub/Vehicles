@@ -41,7 +41,7 @@ cfg.garage_types = {
 	  ["Sports"] = {
 		_config = {vtype="Car",blipid=50,blipcolor=5},
 		["rs62"] = {"Free Audi RS6",1, ""},
-		["m3f80"] = {"Custom BMW M3",1, ""},
+		["m3f80"] = {"Free BMW M3",1, ""},
 		["na6"] = {"Mazda MX5",250000, ""},
 		["i8"] = {"BMW I8",400000, ""},
 		--["r8ppi"] = {"Audi R8",75000, ""},
@@ -54,13 +54,17 @@ cfg.garage_types = {
 		["lp700"] = {"Lamborghini Aventador",900000, ""},
 		--["ast"] = {"Aston Martin Vanquish",200000, ""},
 	  },
-	  
-	
-	
 	  ["SUV"] = {
 		_config = {vtype="Car",blipid=50,blipcolor=4},
 		["levante"] = {"Maserati Levante",500000, ""},
 		--["q820"] = {"Audi Q8 Quattro",75000, ""},
+  },
+
+
+  
+  ["Motorbike"] = {
+	_config = {vtype="Car",blipid=50,blipcolor=5},
+	["na25"] = {"Harley Davidson Road King",250000, ""},
   },
 
 
@@ -71,8 +75,9 @@ cfg.garage_types = {
   ["MET Vehicles"] = {
     _config = {vtype="Car",blipid=56,blipcolor=38,permissions={"police.perms"}},
 	["mraprb"] = {"Special Forces",32423432423432423432324, ""},
-	["amg"] = {"Pluxxy's Pd Lock",32423432423432423432324, ""},
-        ["UNMDUR"] = {"Buzz's PD Lock",32423432423432423432324, ""},
+	["amg"] = {"Pluxxy's PD Lock",32423432423432423432324, ""},
+    ["UNMDUR"] = {"Buzz's PD Lock",32423432423432423432324, ""},
+	["pd_tesla"] = {"Gold Command Tesla",32423432423432423432324, ""},
 	["polF150"] = {"Police F150",0, ""},
 	["pdbmwm5"] = {"Police M5",0, ""},
 	["pddirtbike"] = {"Police Dirtbike",0, ""},
@@ -85,11 +90,11 @@ cfg.garage_types = {
 	["pdvolvsun"] = {"Police Volvo Unmarked",0, ""},
 	["polgt"] = {"Police GT",0, ""},
 	["polmondeo"] = {"Police Mondeo",0, ""},
-	["riotvan"] = {"Riot Van",0, ""},
+	["riotvan"] = {"Police Sprinter Van",0, ""},
 
 	["polbird"] = {"CTSFO Helicopter",0, ""},
-        ["npas1"] = {"Npas 1 Helicopter",0, ""},
-        ["npas2"] = {"Npas 2 Helicopter",0, ""},
+    ["npas1"] = {"NPAS 1 Helicopter",0, ""},
+    ["npas2"] = {"NPAS 2 Helicopter",0, ""},
 
 	["pdlambo"] = {"Police Lamborghini",0, ""},
 	["pdx5arv"] = {"Police BMW X5",0, ""},
@@ -97,7 +102,7 @@ cfg.garage_types = {
 	["pdxc90mar"] = {"Volvo XC90 Marked",0, ""},
 	["pdxc90unm"] = {"Volvo XC90 Unmarked",0, ""},
 	["polrs6"] = {"CTSFO Audi RS6",0, ""},
-	["xc60"] = {"XC60",0, ""},
+	["polxe"] = {"CTSFO Jaguar XE",0, ""},
   },
 
 
@@ -120,8 +125,8 @@ cfg.garage_types = {
   ["Police Helicopters"] = {
     _config = {vtype="Heli",blipid=43,blipcolor=38,radius=5.1,permissions={"police.perms"}},
 	["polbird"] = {"CTSFO Helicopter",0, ""},
-        ["npas1"] = {"Npas 1 Helicopter",0, ""},
-        ["npas2"] = {"Npas 2 Helicopter",0, ""},
+    ["npas1"] = {"Npas 1 Helicopter",0, ""},
+    ["npas2"] = {"Npas 2 Helicopter",0, ""},
 
 }
 }
@@ -166,7 +171,9 @@ cfg.locksandimports = {
 		["mh3przemo"] = {"Wilko",999999999999, ""},
 		["dubzyunmarked"] = {"Dubzy pd",999999999999, ""},
 		["uzibentayga"] = {"Lil Uzi Vert Bentayga",999999999999, ""},
-		["uziurus"] = {"Lil Uzi Vert Urus",999999999999, ""},
+		["uziurus"] = {"Lil Uzi Lamborghini Urus",999999999999, ""},
+		["clioraid"] = {"Renault Clio Raid",999999999999, ""},
+		["rmodrover"] = {"Mansory Range Rover",999999999999, ""},
 
 	},
 	["Founder Locks"] = {
@@ -189,6 +196,7 @@ cfg.locksandimports = {
 		["customdeberti"] = {"Dubzy x Lillie",999999999999, ""},
 		["jeep20stormtrooper"] = {"Parker's Management Lock",999999999999, ""},
 		["as1pxxbd"] = {"firm it",999999999999, ""},
+		["oyclpi800"] = {"2022 Lamborghini Countach",999999999999, ""},
 	},
 	["Custom Import"] = { -- ALL CUSTOM IMPORTS ARE TO BE NORMAL CAR NAMES
 		_config = {vtype="Car",blipid=56,blipcolor=38},
@@ -342,13 +350,18 @@ cfg.garages = {
 	{"Car", 1582.15, 6445.43, 25.02},
 	{"Car", 127.76, 6662.35, 31.69},
 	{"Car", 33.95, 6608.34, 32.47},
-	{"Car", -264.29, 6339.82, 32.43},
+	{"Car", -239.8556, 6334.1968, 32.4258, 225.3055},
 	{"Car", 1366.17, 1156.17, 113.76},
 	{"Car", 292.57, 199.61, 104.37},
 	{"Car", 450.79, -1020, 28.43},
 	{"Car", 127.76, 6662.35, 31.69},
 	{"Car", 2567.7438964844,347.11663818359,108.46026611328},
-
+	{"Car", 457.6904, -946.5248, 28.2514, 356.6563},
+	{"Car", 477.8403, -1022.3594, 28.0337, 93.1846},
+	{"Car", 449.1726, -981.3522, 43.6917, 269.4676},
+	{"Car", -703.7929, -982.4935, 20.3897, 115.1692},
+	{"Car", 146.8711, -1076.7239, 29.1924, 43.9453},
+	{"Car", -765.3188, -244.9955, 37.2507, 199.0178},
 }
 cfg.dealers = {
 	{"Car", -31.871356964111,-1111.7459716797,26.422334671021},
