@@ -165,7 +165,7 @@ cfg.locksandimports = {
 		["mh3przemo"] = {"Wilko",999999999999, ""},
 		["dubzyunmarked"] = {"Dubzy pd",999999999999, ""},
 		["uzibentayga"] = {"Lil Uzi Vert Bentayga",999999999999, ""},
-		["uziurus"] = {"Lil Uzi Vert Urus",999999999999, ""},
+		["uziurus"] = {"Lil Uzi Lamborghini Urus",999999999999, ""},
 
 	},
 	["Founder Locks"] = {
