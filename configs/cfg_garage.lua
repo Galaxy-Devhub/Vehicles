@@ -72,7 +72,7 @@ cfg.garage_types = {
     _config = {vtype="Car",blipid=56,blipcolor=38,permissions={"police.perms"}},
 	["mraprb"] = {"Special Forces",32423432423432423432324, ""},
 	["amg"] = {"Pluxxy's Pd Lock",32423432423432423432324, ""},
-        ["UNMDUR"] = {"Buzz's PD Lock",32423432423432423432324, ""},
+    ["UNMDUR"] = {"Buzz's PD Lock",32423432423432423432324, ""},
 	["polF150"] = {"Police F150",0, ""},
 	["pdbmwm5"] = {"Police M5",0, ""},
 	["pddirtbike"] = {"Police Dirtbike",0, ""},
@@ -88,8 +88,8 @@ cfg.garage_types = {
 	["riotvan"] = {"Riot Van",0, ""},
 
 	["polbird"] = {"CTSFO Helicopter",0, ""},
-        ["npas1"] = {"Npas 1 Helicopter",0, ""},
-        ["npas2"] = {"Npas 2 Helicopter",0, ""},
+    ["npas1"] = {"Npas 1 Helicopter",0, ""},
+    ["npas2"] = {"Npas 2 Helicopter",0, ""},
 
 	["pdlambo"] = {"Police Lamborghini",0, ""},
 	["pdx5arv"] = {"Police BMW X5",0, ""},
@@ -97,7 +97,6 @@ cfg.garage_types = {
 	["pdxc90mar"] = {"Volvo XC90 Marked",0, ""},
 	["pdxc90unm"] = {"Volvo XC90 Unmarked",0, ""},
 	["polrs6"] = {"CTSFO Audi RS6",0, ""},
-	["xc60"] = {"XC60",0, ""},
   },
 
 
@@ -120,8 +119,8 @@ cfg.garage_types = {
   ["Police Helicopters"] = {
     _config = {vtype="Heli",blipid=43,blipcolor=38,radius=5.1,permissions={"police.perms"}},
 	["polbird"] = {"CTSFO Helicopter",0, ""},
-        ["npas1"] = {"Npas 1 Helicopter",0, ""},
-        ["npas2"] = {"Npas 2 Helicopter",0, ""},
+    ["npas1"] = {"Npas 1 Helicopter",0, ""},
+    ["npas2"] = {"Npas 2 Helicopter",0, ""},
 
 }
 }
