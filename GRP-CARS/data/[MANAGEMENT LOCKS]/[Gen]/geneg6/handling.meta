@@ -3,7 +3,7 @@
   <HandlingData>
   <Item type="CHandlingData">
       <handlingName>geneg6</handlingName>
-      <fMass value="7000.000000" />
+      <fMass value="6000.000000" />
       <fInitialDragCoeff value="7.000000" />
       <fDownforceModifier value="50.0000" />
       <fPercentSubmerged value="85.000000" />
@@ -11,7 +11,7 @@
       <vecInertiaMultiplier x="1.200000" y="1.200000" z="1.300000" />
       <fDriveBiasFront value="1.000000" />
       <nInitialDriveGears value="6" />
-      <fInitialDriveForce value="1.20000" />
+      <fInitialDriveForce value="1.30000" />
       <fDriveInertia value="1.400000" />
       <fClutchChangeRateScaleUpShift value="4.700000" />
       <fClutchChangeRateScaleDownShift value="4.700000" />
@@ -37,8 +37,8 @@
       <fSuspensionBiasFront value="0.520000" />
       <fAntiRollBarForce value="1.000000" />
       <fAntiRollBarBiasFront value="0.550000" />
-      <fRollCentreHeightFront value="0.550000" />
-      <fRollCentreHeightRear value="0.550000" />
+      <fRollCentreHeightFront value="0.30000" />
+      <fRollCentreHeightRear value="0.30000" />
       <fCollisionDamageMult value="0.000000" />
       <fWeaponDamageMult value="0.000000" />
       <fDeformationDamageMult value="0.000000" />

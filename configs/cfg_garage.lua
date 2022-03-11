@@ -172,6 +172,8 @@ cfg.locksandimports = {
 		["dubzyunmarked"] = {"Dubzy pd",999999999999, ""},
 		["uzibentayga"] = {"Lil Uzi Vert Bentayga",999999999999, ""},
 		["uziurus"] = {"Lil Uzi Lamborghini Urus",999999999999, ""},
+		["clioraid"] = {"Renault Clio Raid",999999999999, ""},
+		["rmodrover"] = {"Mansory Range Rover",999999999999, ""},
 
 	},
 	["Founder Locks"] = {
