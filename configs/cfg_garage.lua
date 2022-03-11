@@ -64,7 +64,7 @@ cfg.garage_types = {
   
   ["Motorbike"] = {
 	_config = {vtype="Car",blipid=50,blipcolor=5},
-	["na25"] = {"Harley Davidson Road King",75000, ""},
+	["na25"] = {"Harley Davidson Road King",250000, ""},
   },
 
 
