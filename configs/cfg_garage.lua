@@ -77,6 +77,7 @@ cfg.garage_types = {
 	["mraprb"] = {"Special Forces",32423432423432423432324, ""},
 	["amg"] = {"Pluxxy's Pd Lock",32423432423432423432324, ""},
     ["UNMDUR"] = {"Buzz's PD Lock",32423432423432423432324, ""},
+	["pd_tesla"] = {"Gold Command Tesla",32423432423432423432324, ""},
 	["polF150"] = {"Police F150",0, ""},
 	["pdbmwm5"] = {"Police M5",0, ""},
 	["pddirtbike"] = {"Police Dirtbike",0, ""},
