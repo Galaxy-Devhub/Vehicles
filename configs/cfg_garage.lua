@@ -54,13 +54,17 @@ cfg.garage_types = {
 		["lp700"] = {"Lamborghini Aventador",900000, ""},
 		--["ast"] = {"Aston Martin Vanquish",200000, ""},
 	  },
-	  
-	
-	
 	  ["SUV"] = {
 		_config = {vtype="Car",blipid=50,blipcolor=4},
 		["levante"] = {"Maserati Levante",500000, ""},
 		--["q820"] = {"Audi Q8 Quattro",75000, ""},
+  },
+
+
+  
+  ["Motorbike"] = {
+	_config = {vtype="Car",blipid=50,blipcolor=5},
+	["na25"] = {"Harley Davidson Road King",75000, ""},
   },
 
 
