@@ -3,7 +3,7 @@
   <HandlingData>
   <Item type="CHandlingData">
       <handlingName>urus2018</handlingName>
-      <fMass value="9500.0" />
+      <fMass value="2000.0" />
 			<fInitialDragCoeff value="4.2" />
 			<fPercentSubmerged value="85.0" />
 			<vecCentreOfMassOffset x="0.0" y="0.5" z="0.0" />
