@@ -41,7 +41,7 @@ cfg.garage_types = {
 	  ["Sports"] = {
 		_config = {vtype="Car",blipid=50,blipcolor=5},
 		["rs62"] = {"Free Audi RS6",1, ""},
-		["m3f80"] = {"Custom BMW M3",1, ""},
+		["m3f80"] = {"Free BMW M3",1, ""},
 		["na6"] = {"Mazda MX5",250000, ""},
 		["i8"] = {"BMW I8",400000, ""},
 		--["r8ppi"] = {"Audi R8",75000, ""},
@@ -75,8 +75,9 @@ cfg.garage_types = {
   ["MET Vehicles"] = {
     _config = {vtype="Car",blipid=56,blipcolor=38,permissions={"police.perms"}},
 	["mraprb"] = {"Special Forces",32423432423432423432324, ""},
-	["amg"] = {"Pluxxy's Pd Lock",32423432423432423432324, ""},
+	["amg"] = {"Pluxxy's PD Lock",32423432423432423432324, ""},
     ["UNMDUR"] = {"Buzz's PD Lock",32423432423432423432324, ""},
+	["pd_tesla"] = {"Gold Command Tesla",32423432423432423432324, ""},
 	["polF150"] = {"Police F150",0, ""},
 	["pdbmwm5"] = {"Police M5",0, ""},
 	["pddirtbike"] = {"Police Dirtbike",0, ""},
@@ -89,11 +90,11 @@ cfg.garage_types = {
 	["pdvolvsun"] = {"Police Volvo Unmarked",0, ""},
 	["polgt"] = {"Police GT",0, ""},
 	["polmondeo"] = {"Police Mondeo",0, ""},
-	["riotvan"] = {"Riot Van",0, ""},
+	["riotvan"] = {"Police Sprinter Van",0, ""},
 
 	["polbird"] = {"CTSFO Helicopter",0, ""},
-    ["npas1"] = {"Npas 1 Helicopter",0, ""},
-    ["npas2"] = {"Npas 2 Helicopter",0, ""},
+    ["npas1"] = {"NPAS 1 Helicopter",0, ""},
+    ["npas2"] = {"NPAS 2 Helicopter",0, ""},
 
 	["pdlambo"] = {"Police Lamborghini",0, ""},
 	["pdx5arv"] = {"Police BMW X5",0, ""},
@@ -101,6 +102,7 @@ cfg.garage_types = {
 	["pdxc90mar"] = {"Volvo XC90 Marked",0, ""},
 	["pdxc90unm"] = {"Volvo XC90 Unmarked",0, ""},
 	["polrs6"] = {"CTSFO Audi RS6",0, ""},
+	["polxe"] = {"CTSFO Jaguar XE",0, ""},
   },
 
 
@@ -358,6 +360,7 @@ cfg.garages = {
 	{"Car", 449.1726, -981.3522, 43.6917, 269.4676},
 	{"Car", -703.7929, -982.4935, 20.3897, 115.1692},
 	{"Car", 146.8711, -1076.7239, 29.1924, 43.9453},
+	{"Car", -765.3188, -244.9955, 37.2507, 199.0178},
 }
 cfg.dealers = {
 	{"Car", -31.871356964111,-1111.7459716797,26.422334671021},
