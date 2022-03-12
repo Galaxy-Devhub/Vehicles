@@ -59,6 +59,7 @@ cfg.vehicle_chest_weights = {
   ["uziurus"] = 500,
   ["oyclpi800"] = 300,
   ["jeep20stormtrooper"] = 300,
+  ["trippiec8"] = 500,
 
 }
 
