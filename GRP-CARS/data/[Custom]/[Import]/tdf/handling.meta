@@ -3,7 +3,7 @@
   <HandlingData>
   <Item type="CHandlingData">
       <handlingName>tdf</handlingName>
-<fMass value="6000.0" />
+<fMass value="2000.0" />
 			<fInitialDragCoeff value="5.43" />
 			<fDownforceModifier value="15.0" />
 			<fPercentSubmerged value="85.0" />

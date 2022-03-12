@@ -4,7 +4,7 @@
   <HandlingData>
     <Item type="CHandlingData">
     <handlingName>bmwx7</handlingName>
-    <fMass value="4000.0" />
+    <fMass value="2500.0" />
 	<fInitialDragCoeff value="6.0" />
 	<fDownforceModifier value="160.0" />
 	<fPercentSubmerged value="85.0" />

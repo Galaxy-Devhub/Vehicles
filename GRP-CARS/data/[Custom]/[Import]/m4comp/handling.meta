@@ -4,7 +4,7 @@
   <HandlingData>
     <Item type="CHandlingData">
       <handlingName>m4comp</handlingName>
-      <fMass value="8000.000000" />
+      <fMass value="4000.000000" />
       <fInitialDragCoeff value="6.400000" />
 	    <fDownforceModifier value="16000.0" />
       <fPercentSubmerged value="85.000000" />
