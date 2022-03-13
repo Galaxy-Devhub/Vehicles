@@ -60,6 +60,7 @@ cfg.vehicle_chest_weights = {
   ["oyclpi800"] = 300,
   ["jeep20stormtrooper"] = 300,
   ["trippiec8"] = 500,
+  ["geneg6"] = 300,
 
 }
 
