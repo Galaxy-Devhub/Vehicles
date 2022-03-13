@@ -3,7 +3,7 @@
   <HandlingData>
     <Item type="CHandlingData">
       <handlingName>oyclpi800</handlingName> 
-      <fMass value="5800" />
+      <fMass value="8000" />
       <fDownforceModifier value="20.0" />
       <fInitialDragCoeff value="7.2" />
       <fPercentSubmerged value="85" />
