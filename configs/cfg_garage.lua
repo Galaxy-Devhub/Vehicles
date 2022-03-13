@@ -173,6 +173,7 @@ cfg.locksandimports = {
 		["uziurus"] = {"Lil Uzi Lamborghini Urus",999999999999, ""},
 		["clioraid"] = {"Renault Clio Raid",999999999999, ""},
 		["rmodrover"] = {"Mansory Range Rover",999999999999, ""},
+		["gti8"] = {"2NCS Golf GTI8",999999999999, ""},
 
 	},
 	["Founder Locks"] = {
@@ -186,7 +187,6 @@ cfg.locksandimports = {
 	["Management Locks"] = {
 		_config = {vtype="Car",blipid=56,blipcolor=38},
 		["AshyPika"] = {"Mikey's Pussy Wagon Has Now Arrived",999999999999, ""},
-		["gti8"] = {"Firm It Pussy",999999999999, ""},
 		["geneg6"] = {"Gen has a huge forehead",999999999999, ""},
 		["lilli"] = {"Lilli X Dubzy <3",999999999999, ""},
 		["rs6mansory"] = {"Mansory RS6",999999999999, ""},
