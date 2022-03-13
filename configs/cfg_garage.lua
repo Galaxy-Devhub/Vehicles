@@ -199,6 +199,7 @@ cfg.locksandimports = {
 		["oyclpi800"] = {"2022 Lamborghini Countach",999999999999, ""},
 		["demonc8"] = {"UwU",999999999999, ""},
 		["trippiec8"] = {"Trippie Red C8",999999999999, ""},
+		["rsq8offroad"] = {"Callum x Lillie",999999999999, ""},
 		["rs3str"] = {"UwU RS3",999999999999, ""},
 
 	},
