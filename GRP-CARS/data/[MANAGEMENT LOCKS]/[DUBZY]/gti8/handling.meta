@@ -4,7 +4,7 @@
   <HandlingData>
     <Item type="CHandlingData"> 
 <handlingName>gti8</handlingName> 
-<fMass value="10000.000000" /> 
+<fMass value="3000.000000" /> 
 <fInitialDragCoeff value="2.430000" /> 
 <fDownforceModifier value="5000.000000"/>
 <fPercentSubmerged value="100.000000" /> 
