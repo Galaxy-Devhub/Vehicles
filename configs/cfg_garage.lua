@@ -96,7 +96,6 @@ cfg.garage_types = {
     ["npas1"] = {"NPAS 1 Helicopter",0, ""},
     ["npas2"] = {"NPAS 2 Helicopter",0, ""},
 
-	["pdlambo"] = {"Police Lamborghini",0, ""},
 	["pdx5arv"] = {"Police BMW X5",0, ""},
 	["pdx5unm"] = {"Unmarked BMW X5",0, ""},
 	["pdxc90mar"] = {"Volvo XC90 Marked",0, ""},
