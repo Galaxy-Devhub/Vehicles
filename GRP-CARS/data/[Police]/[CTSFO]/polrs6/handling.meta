@@ -4,7 +4,7 @@
   <HandlingData>
     <Item type="CHandlingData">
       <handlingName>polrs6</handlingName>
-<fMass value="1000.0" />
+<fMass value="1300.0" />
 			<fInitialDragCoeff value="4.0" />
 			<fDownforceModifier value="2.5" />
 			<fPercentSubmerged value="85.0" />
@@ -16,7 +16,7 @@
 			<fDriveInertia value="1.5" />
 			<fClutchChangeRateScaleUpShift value="8.0" />
 			<fClutchChangeRateScaleDownShift value="8.0" />
-			<fInitialDriveMaxFlatVel value="270.0" />
+			<fInitialDriveMaxFlatVel value="280.0" />
 			<fBrakeForce value="3.5" />
 			<fBrakeBiasFront value="0.5" />
 			<fHandBrakeForce value="0.7" />
