@@ -200,6 +200,7 @@ cfg.locksandimports = {
 		["trippiec8"] = {"Trippie Red C8",999999999999, ""},
 		["rsq8offroad"] = {"Callum x Lillie",999999999999, ""},
 		["rs3str"] = {"UwU RS3",999999999999, ""},
+		["deberti"] = {"Daddy CDubzy",999999999999, ""},
 
 	},
 	["Custom Import"] = { -- ALL CUSTOM IMPORTS ARE TO BE NORMAL CAR NAMES
