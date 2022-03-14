@@ -174,6 +174,7 @@ cfg.locksandimports = {
 		["clioraid"] = {"Renault Clio Raid",999999999999, ""},
 		["rmodrover"] = {"Mansory Range Rover",999999999999, ""},
 		["gti8"] = {"2NCS Golf GTI8",999999999999, ""},
+		["MonalisaFF3"] = {"Mona Lisa Nissan S15",999999999999, ""},
 
 	},
 	["Founder Locks"] = {
