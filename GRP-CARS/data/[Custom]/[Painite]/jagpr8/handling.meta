@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <CHandlingDataMgr>
-
   <HandlingData>
     <Item type="CHandlingData">
-<fMass value="1800.0" />
+       <handlingName>jagpr8</handlingName>
+                        <fMass value="1800.0" />
 			<fInitialDragCoeff value="2.427" />
 			<fDownforceModifier value="10.0" />
 			<fPercentSubmerged value="85.0" />
