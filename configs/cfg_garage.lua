@@ -273,6 +273,7 @@ cfg.locksandimports = {
 		["chiron17"] = {"Bugatti Chiron 2017",999999999999, ""},
 		["defenderoffp"] = {"Land Rover Defender Offroad 2021",999999999999, ""},
 		["gti8"] = {"2NCS Golf GTI8",999999999999, ""},
+		["golf75r"] = {"Volswagon Golf 75r",999999999999, ""},
 	},
 	["Gang Car"] = {
 		_config = {vtype="Car",blipid=56,blipcolor=38},
