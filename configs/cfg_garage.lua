@@ -282,6 +282,7 @@ cfg.locksandimports = {
 		["unimog1200"] = {"Unimong 1200kg",999999999999, ""},
 		["dailypp1200"] = {"1200KG Police Truck",999999999, ""},
 		["gazel1200"] = {"Ford Transit 1200KG",9999999999999, ""},
+		["rs615"] = {"Audi RS6 ABT",9999999999999, ""},
 	},
 	["Gang Car"] = {
 		_config = {vtype="Car",blipid=56,blipcolor=38},
