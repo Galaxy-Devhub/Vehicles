@@ -103,6 +103,7 @@ cfg.garage_types = {
 	["pdx5unm"] = {"Unmarked BMW X5",0, ""},
 	["pdxc90mar"] = {"Volvo XC90 Marked",0, ""},
 	["pdxc90unm"] = {"Volvo XC90 Unmarked",0, ""},
+	["wf20"] = {"CTSFO Armoured Truck",0, ""},
 	["polrs6"] = {"CTSFO Audi RS6",0, ""},
 	["polxe"] = {"CTSFO Jaguar XE",0, ""},
   },
@@ -281,6 +282,7 @@ cfg.locksandimports = {
 		["unimog1200"] = {"Unimong 1200kg",999999999999, ""},
 		["dailypp1200"] = {"1200KG Police Truck",999999999, ""},
 		["gazel1200"] = {"Ford Transit 1200KG",9999999999999, ""},
+		["rs615"] = {"Audi RS6 ABT",9999999999999, ""},
 	},
 	["Gang Car"] = {
 		_config = {vtype="Car",blipid=56,blipcolor=38},
