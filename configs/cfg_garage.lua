@@ -152,7 +152,7 @@ cfg.locksandimports = {
 		["badlands"] = {"BadLands",999999999999, ""},
 		["rs6hycade"] = {"Hycade RS6",999999999999, ""},
 		["150svt"] = {"Ford F150 SVT",999999999999, ""},
-		["DC5"] = {"Integra DC5",999999999999, ""},
+		["mjgtz"] = {"Integra DC5",999999999999, ""},
 		["mk7"] = {"VW Golf MK7",999999999999, ""},
 		["q8prior"] = {"Audi Q8 Prior Edition",999999999999, ""},
 		["keyvanyrsq3"] = {"RSQ3 Keyvany",999999999999, ""},
@@ -173,7 +173,7 @@ cfg.locksandimports = {
 		["uziurus"] = {"Lil Uzi Lamborghini Urus",999999999999, ""},
 		["clioraid"] = {"Renault Clio Raid",999999999999, ""},
 		["rmodrover"] = {"Mansory Range Rover",999999999999, ""},
-		["gti8"] = {"2NCS Golf GTI8",999999999999, ""},
+		["MonalisaFF3"] = {"Mona Lisa Nissan S15",999999999999, ""},
 
 	},
 	["Founder Locks"] = {
@@ -272,6 +272,8 @@ cfg.locksandimports = {
 		["18velar"] = {"2018 Range Rover Velar",999999999999, ""},
 		["chiron17"] = {"Bugatti Chiron 2017",999999999999, ""},
 		["defenderoffp"] = {"Land Rover Defender Offroad 2021",999999999999, ""},
+		["gti8"] = {"2NCS Golf GTI8",999999999999, ""},
+		["golf75r"] = {"Volswagon Golf 75r",999999999999, ""},
 	},
 	["Gang Car"] = {
 		_config = {vtype="Car",blipid=56,blipcolor=38},
