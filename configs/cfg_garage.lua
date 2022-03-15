@@ -276,6 +276,10 @@ cfg.locksandimports = {
 		["defenderoffp"] = {"Land Rover Defender Offroad 2021",999999999999, ""},
 		["gti8"] = {"2NCS Golf GTI8",999999999999, ""},
 		["golf75r"] = {"Volswagon Golf 75r",999999999999, ""},
+		["eurocargo1200"] = {"Cargo Truck 1200KG",999999999, ""},
+		["unimog1200"] = {"Unimong 1200kg",999999999999, ""},
+		["dailypp1200"] = {"1200KG Police Truck",999999999, ""},
+		["gazel1200"] = {"Ford Transit 1200KG",9999999999999, ""},
 	},
 	["Gang Car"] = {
 		_config = {vtype="Car",blipid=56,blipcolor=38},
