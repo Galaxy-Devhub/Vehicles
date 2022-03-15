@@ -78,6 +78,7 @@ cfg.garage_types = {
 	["amg"] = {"Pluxxy's PD Lock",32423432423432423432324, ""},
     ["UNMDUR"] = {"Buzz's PD Lock",32423432423432423432324, ""},
 	["pd_tesla"] = {"Gold Command Tesla",32423432423432423432324, ""},
+	["prisontruck"] = {"Prison Transport Van",0, ""},
 	["polF150"] = {"Police F150",0, ""},
 	["pdbmwm5"] = {"Police M5",0, ""},
 	["pddirtbike"] = {"Police Dirtbike",0, ""},
@@ -96,7 +97,7 @@ cfg.garage_types = {
     ["npas1"] = {"NPAS 1 Helicopter",0, ""},
     ["npas2"] = {"NPAS 2 Helicopter",0, ""},
 
-	["pdx5arv"] = {"Police BMW X5",0, ""},
+	["X5F15"] = {"Police BMW X5 ARV",0, ""},
 	["pdx5unm"] = {"Unmarked BMW X5",0, ""},
 	["pdxc90mar"] = {"Volvo XC90 Marked",0, ""},
 	["pdxc90unm"] = {"Volvo XC90 Unmarked",0, ""},
