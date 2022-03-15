@@ -32,7 +32,7 @@
 			<fSuspensionForce value="2.6" />
 			<fSuspensionCompDamp value="1.2" />
 			<fSuspensionReboundDamp value="2.4" />
-			<fSuspensionUpperLimit value="0.09" />
+			<fSuspensionUpperLimit value="0.00" />
 			<fSuspensionLowerLimit value="-0.14" />
 			<fSuspensionRaise value="0.0" />
 			<fSuspensionBiasFront value="0.45" />
