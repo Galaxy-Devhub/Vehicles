@@ -103,6 +103,7 @@ cfg.garage_types = {
 	["pdx5unm"] = {"Unmarked BMW X5",0, ""},
 	["pdxc90mar"] = {"Volvo XC90 Marked",0, ""},
 	["pdxc90unm"] = {"Volvo XC90 Unmarked",0, ""},
+	["wf20"] = {"CTSFO Armoured Truck",0, ""},
 	["polrs6"] = {"CTSFO Audi RS6",0, ""},
 	["polxe"] = {"CTSFO Jaguar XE",0, ""},
   },
