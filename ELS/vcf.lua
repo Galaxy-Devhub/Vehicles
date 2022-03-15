@@ -60,6 +60,7 @@ vcf_files = {
 	"policetruck.xml",
 	"X5F15.xml",
 	"polastra.xml",
+	"polbmwg20.xml",
 
 ------------------------↑ [Pd Car]
 	"lumma21x7unmarked.xml",

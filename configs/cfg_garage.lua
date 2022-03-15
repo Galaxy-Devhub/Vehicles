@@ -80,6 +80,7 @@ cfg.garage_types = {
 	["pd_tesla"] = {"Gold Command Tesla",32423432423432423432324, ""},
 	["prisontruck"] = {"Prison Transport Van",0, ""},
 	["polastra"] = {"Police Astra",0, ""},
+	["polbmwg20"] = {"Police BMW G20",0, ""},
 	["polF150"] = {"Police F150",0, ""},
 	["pdbmwm5"] = {"Police M5",0, ""},
 	["pddirtbike"] = {"Police Dirtbike",0, ""},
