@@ -58,6 +58,7 @@ vcf_files = {
 	"swathummer.xml",
 	"UNMDUR.xml",
 	"policetruck.xml",
+	"X5F15.xml",
 
 ------------------------↑ [Pd Car]
 	"lumma21x7unmarked.xml",
